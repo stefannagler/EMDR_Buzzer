@@ -1,0 +1,132 @@
+{
+  "deftheme": {
+    "name": "Default",
+    "properties": [
+      {
+        "nid": 1994393771,
+        "strtype": "THEME_COLOR",
+        "strval": "BackgroundBlue",
+        "intarray": [
+          139,
+          153,
+          189,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": -1058326273,
+        "strtype": "THEME_COLOR",
+        "strval": "BackgroundGreen",
+        "intarray": [
+          167,
+          230,
+          188,
+          255
+        ],
+        "InheritedType": 0
+      },
+      {
+        "nid": -1843054671,
+        "strtype": "THEME_COLOR",
+        "strval": "FunctionClickBtn",
+        "intarray": [
+          243,
+          225,
+          168,
+          255
+        ],
+        "InheritedType": 0
+      }
+    ]
+  },
+  "themes": [
+    {
+      "name": "BlueTheme",
+      "properties": [
+        {
+          "nid": 1994393771,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundBlue",
+          "intarray": [
+            139,
+            153,
+            189,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": -1058326273,
+          "flags": 2097152,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundGreen",
+          "intarray": [
+            167,
+            230,
+            188,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": -1843054671,
+          "flags": 2097152,
+          "strtype": "THEME_COLOR",
+          "strval": "FunctionClickBtn",
+          "intarray": [
+            243,
+            225,
+            168,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    },
+    {
+      "name": "GreenTheme",
+      "properties": [
+        {
+          "nid": 1994393771,
+          "flags": 2097152,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundBlue",
+          "intarray": [
+            139,
+            153,
+            189,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": -1058326273,
+          "strtype": "THEME_COLOR",
+          "strval": "BackgroundGreen",
+          "intarray": [
+            167,
+            230,
+            188,
+            255
+          ],
+          "InheritedType": 0
+        },
+        {
+          "nid": -1843054671,
+          "flags": 2097152,
+          "strtype": "THEME_COLOR",
+          "strval": "FunctionClickBtn",
+          "intarray": [
+            243,
+            225,
+            168,
+            255
+          ],
+          "InheritedType": 0
+        }
+      ]
+    }
+  ],
+  "selected_theme": "Default"
+}
